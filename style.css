@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(39, 41, 40);
+    color: rgb(255, 255, 255);
+    font-family: "Arial Black", Gadget, sans-serif;
+    font-size: 25px;
+    letter-spacing: 2px;
+    word-spacing: 2px;
+    color: #FFFFFF;
+    font-weight: 700;
+    text-decoration: none;
+    font-style: italic;
+    font-variant: small-caps;
+    text-transform: none;
+    
+}
+h1{
+    color:black;
+    font-size: 20px;
+    font-family: "Arial Black", Gadget, sans-serif;
+    background-color: rgb(216, 216, 216);
+
+}
+li {
+    font-size: 18px;
+    color: gray;
+
+}
+a {
+    color: rgb(70, 69, 69)
+}
